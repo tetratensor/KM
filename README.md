@@ -251,7 +251,7 @@ AWS services I have used:
 | EKS                   | C     | Used for microservices platform (not complex setup)                 |
 | Rekognition           | A     | Used to detect inappropriate images; also used in personal projects |
 
-I omit basics like VPC/CloudWatch. I have built entire infrastructures from scratch (incl. web apps) with AWS since around 2015.
+I omit basics like VPC/CloudWatch. I have built entire infrastructures from scratch (incl. web apps) with AWS since around 2019.
 
 # Technologies I'm Currently Interested In
 
